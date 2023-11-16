@@ -41,13 +41,13 @@ font-family: "Ubuntu", sans-serif;
 color: rgb(197, 194, 194);
 }
 
-.rightNav { width: 30%; text-align: right;
+/* .rightNav { width: 30%; text-align: right;
 padding: 0 23px;
-}
+} */
 
-#search { padding: 5px; font-size: 17px;
+/* #search { padding: 5px; font-size: 17px;
 border: 2px solid grey; border-radius: 9px;
-}
+} */
 
 .background {
 background: rgba(0, 0, 0, 0.7) url("img.jpg"); background-size: cover;
